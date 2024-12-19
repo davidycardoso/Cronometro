@@ -1,6 +1,6 @@
 # 🏋️ **Cronômetro de Exercícios Físicos**  
 
-![Preview do App](https://via.placeholder.com/800x400.png?text=Adicione+uma+imagem+do+app)  
+![Preview do App](preview.png)  
 
 Um aplicativo simples e eficiente para gerenciar seus treinos! 🎯  
 Crie sessões para atividades como **natação**, **corrida** e **levantamento de peso**, utilizando um cronômetro funcional com opções de **iniciar**, **pausar** e **zerar**.
