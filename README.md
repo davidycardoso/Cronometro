@@ -39,7 +39,7 @@ Crie sessões para atividades como **natação**, **corrida** e **levantamento d
 ---
 📷 Prévia do Projeto
 
-Exemplo: ![Gif do App](https://via.placeholder.com/600x300.png?text=Adicione+um+gif+aqui)
+Exemplo: ![Gif do App](preview.gif)
 
 ---
 
